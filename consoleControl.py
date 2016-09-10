@@ -37,8 +37,8 @@ BACKWARD = -1
 SEND_FLAG = True
 
 # Get input arguments
-LOCAL_IP = "192.168.1.168" # Computer IP address (change to correct value)
-QB_IP = "192.168.1.160" # QuickBot IP address (change to correct value)
+LOCAL_IP = "192.168.7.1" # Computer IP address (change to correct value)
+QB_IP = "192.168.7.2" # QuickBot IP address (change to correct value)
 PORT = 5005
 if len(sys.argv) > 2:
     print 'Invalid number of command line arguments.'
